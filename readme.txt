@@ -8,4 +8,5 @@ git branch <name>
 git checkout <name>
 git checkout -b <name>
 
-creating a new branch is quick & simple
+creating a new branch is quick and  simple
+
