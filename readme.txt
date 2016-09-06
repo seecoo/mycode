@@ -8,3 +8,4 @@ git branch <name>
 git checkout <name>
 git checkout -b <name>
 
+git merge --no-ff -m "merge with no-ff" dev
